@@ -1,0 +1,6 @@
+{
+  "name": "HR 抽籤與分組小幫手",
+  "description": "一套專為 HR 設計的工具，支援 CSV 上傳與名單貼上，提供包含精美動畫的獎品抽籤系統，以及可自訂人數的自動分組功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
