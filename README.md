@@ -28,6 +28,7 @@ npm run build
 
 專案已經配置了 GitHub Actions (`.github/workflows/deploy.yml`)，當推送到 `main` 分支時，會自動將打包後的 `dist` 目錄部署到 GitHub Pages。
 
+ 
 ### 部署注意事項
 
 1. 請至您的 GitHub Repository 的 **Settings** -> **Pages**。
